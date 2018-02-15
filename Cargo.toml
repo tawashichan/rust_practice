@@ -1,0 +1,6 @@
+[package]
+name = "t_lib"
+version = "0.1.0"
+authors = ["irie <atj_1971@yahoo.co.jp>"]
+
+[dependencies]
